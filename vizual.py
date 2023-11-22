@@ -13,9 +13,11 @@ def plot_random(healthy, tumor, num=5):
         plt.subplot(1, num, i+1)
         plt.title('healthy')
         plt.imshow(healthy_imgs[i])
+        plt.show()
         
     plt.figure(figsize=(16,9))
     for i in range(num):
         plt.subplot(1, num, i+1)
         plt.title('tumor')
         plt.imshow(tumor_imgs[i])
+        plt.show()
