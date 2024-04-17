@@ -40,7 +40,7 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-Keras==2.1.2
+Keras==2.13.1rc0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
