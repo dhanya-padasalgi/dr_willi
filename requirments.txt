@@ -23,7 +23,7 @@ filelock==3.0.12
 gast==0.2.2
 gdown==3.10.3
 google-pasta==0.2.0
-grpcio==1.16.1
+grpcio==1.58.3
 h5py==2.8.0
 idna==2.9
 imageio==2.9.0
